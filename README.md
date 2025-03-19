@@ -1,6 +1,6 @@
-## Ola, eu sou Andre Vaccaro, estudante de programação e professor de Inglês e Espanhol.
+## Data analyst, studying to become a data engineer.
 
-- Estudando JavaScript, HTML, CSS
+- Database, SQL, Python, Spreadsheets
 
 ##
   
